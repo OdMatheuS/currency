@@ -40,3 +40,5 @@ ou
 * usar o `chart.js`
 * exemplo que o Celio criou para ajudar vocês! https://drive.google.com/open?id=1LhhEmUPoJY5cjg4Xxxa5yz4pVoh5mgZs
 
+**Participantes do Proejto:**
+* Erian + Matheus + Raul ==> https://github.com/OdMatheuS/MoneyConvert
